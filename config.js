@@ -53,9 +53,9 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://youtube.com/home',
+      name: 'Contacts',
+      icon: 'user-round',
+      link: 'https://contacts.google.com',
     },
     {
       id: '2',
