@@ -116,7 +116,7 @@ const CONFIG = {
       links: [
         {
           name: 'Home',
-          link: 'https://my.yahoo.com/',
+          link: 'https://news.google.com/',
         },
         {
           name: 'Weather',
