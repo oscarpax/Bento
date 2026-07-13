@@ -109,86 +109,98 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   // First Links Container
-  firstlistsContainer: [
-    {
-      icon: 'home',
-      id: '1',
-      links: [
-        {
-          name: 'Home',
-          link: 'https://news.google.com/',
-        },
-        {
-          name: 'Weather',
-          link: 'https://www.wunderground.com/',
-        },
-        {
-          name: 'Tasks',
-          link: 'https://tasks.google.com/tasks/',
-        },
-        {
-          name: 'Docs',
-          link: 'https://docs.google.com/document/u/0/',
-        },
-      ],
-    },
-    {
-      icon: 'coffee',
-      id: '2',
-      links: [
-        {
-          name: 'CNN',
-          link: 'https://www.cnn.com/',
-        },
-        {
-          name: 'NYT',
-          link: 'https://www.nytimes.com/',
-        },
-        {
-          name: 'BBC',
-          link: 'https://www.bbc.com/',
-        },
-        {
-          name: 'My Yahoo',
-          link: 'https://my.yahoo.com/',
-        },
-      ],
-    },
-  ],
+	firstlistsContainer: [
+		{
+			icon: 'music',
+			id: '1',
+			links: [
+				{
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
+				},
+			],
+		},
+	],
 
-  // Second Links Container
-  secondListsContainer: [
-    {
-      icon: 'binary',
-      id: '1',
-      links: [
-        {
-          name: 'Spotify',
-          link: 'https://www.spotify.com',
-        },
-      ],
-    },
-    {
-      icon: 'github',
-      id: '2',
-      links: [
-        {
-          name: 'Front what',
-          link: 'https://www.reddit.com/r/Frontend/',
-        },
-        {
-          name: 'Rust',
-          link: 'https://www.reddit.com/r/rust/',
-        },
-        {
-          name: 'Go',
-          link: 'https://www.reddit.com/r/golang/',
-        },
-        {
-          name: 'Repos',
-          link: 'https://github.com/migueravila',
-        },
-      ],
-    },
-  ],
+	// Second Links Container
+	secondListsContainer: [
+		{
+			icon: 'binary',
+			id: '1',
+			links: [
+				{
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
+				},
+				{
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
+				},
+				{
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com',
+				},
+				{
+					name: 'Pocket',
+					link: 'https://www.pocket.com',
+				},
+			],
+		},
+		{
+			icon: 'github',
+			id: '2',
+			links: [
+				{
+					name: 'Front',
+					link: 'https://www.reddit.com/r/Frontend/',
+				},
+				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
+				{
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
+				},
+				{
+					name: 'Repos',
+					link: 'https://github.com/migueravila',
+				},
+			],
+		},
+	],
 };
