@@ -173,7 +173,7 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Front',
+          name: 'Front what',
           link: 'https://www.reddit.com/r/Frontend/',
         },
         {
