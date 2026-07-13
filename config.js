@@ -115,21 +115,21 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
+                    name: 'Home',
+                    link: 'https://news.google.com/',
+                },
+                {
+                    name: 'Weather',
+                    link: 'https://www.wunderground.com/',
+                },
+                {
+                    name: 'Tasks',
+                    link: 'https://tasks.google.com/tasks/',
+                },
+                {
+                    name: 'Docs',
+                    link: 'https://docs.google.com/document/u/0/',
+                },
 			],
 		},
 		{
@@ -137,20 +137,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'CNN',
+                    link: 'https://www.cnn.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'NYT',
+					link: 'https://www.nytimes.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'BBC',
+					link: 'https://www.bbc.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'My Yahoo',
+					link: 'https://my.yahoo.com/',
 				},
 			],
 		},
@@ -167,8 +167,8 @@ const CONFIG = {
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Google Business',
+					link: 'https://www.google.com/finance/beta',
 				},
 				{
 					name: 'Hashnode',
