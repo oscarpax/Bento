@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: '9021a883a49491c21adef99c2f18147f', // Write here your API Key
@@ -163,42 +163,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Calendar',
+					link: 'https://calendar.google.com/calendar/r',
 				},
 				{
-					name: 'Google Business',
+					name: 'Market',
 					link: 'https://www.google.com/finance/beta',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'WhatsApp',
+					link: 'https://web.whatsapp.com/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Scores',
+					link: 'https://www.sofascore.com/',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'map-pin',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Maps',
+					link: 'https://www.google.com/maps/@33.6847834,-118.0068974,15z?hl=en',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Contacts',
+					link: 'https://contacts.google.com',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'TV',
+					link: 'https://tv.youtube.com/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Tricycle',
+					link: 'https://tricycle.org/',
 				},
 			],
 		},
