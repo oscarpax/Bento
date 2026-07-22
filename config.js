@@ -167,7 +167,7 @@ const CONFIG = {
 					link: 'https://calendar.google.com/calendar/r',
 				},
 				{
-					name: 'Market',
+					name: 'Bourse',
 					link: 'https://www.google.com/finance/beta',
 				},
 				{
