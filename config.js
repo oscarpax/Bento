@@ -149,8 +149,8 @@ const CONFIG = {
 					link: 'https://www.bbc.com/',
 				},
 				{
-					name: 'My Yahoo',
-					link: 'https://my.yahoo.com/',
+					name: 'LAT',
+					link: 'https://latimes.com/',
 				},
 			],
 		},
