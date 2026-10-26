@@ -141,7 +141,7 @@ const CONFIG = {
                     link: 'https://www.cnn.com/',
 				},
 				{
-					name: 'NYT',
+					name: 'New York Times',
 					link: 'https://www.nytimes.com/',
 				},
 				{
@@ -149,8 +149,12 @@ const CONFIG = {
 					link: 'https://www.bbc.com/',
 				},
 				{
-					name: 'LAT',
+					name: 'Los Angeles Times',
 					link: 'https://latimes.com/',
+				},
+				{
+					name: 'Helsingin Sanomat',
+					link: 'https://hs.fi/',
 				},
 			],
 		},
